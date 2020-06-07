@@ -34,4 +34,3 @@ Tests use the [pytest](https://docs.pytest.org/) framework
 
 - From inside of the `tools` folder, run `pytest --cov=. --cov-report=html`
 - Run `open htmlcov/index.html` to open the interactive html coverage report
-
