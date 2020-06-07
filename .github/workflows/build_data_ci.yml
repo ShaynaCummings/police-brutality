@@ -54,4 +54,3 @@ jobs:
         BRANCH: data_build
         FOLDER: tools/data_build
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
